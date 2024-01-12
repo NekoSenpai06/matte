@@ -1,0 +1,36 @@
+* {
+     margin: 0;
+     padding: 0;
+     text-decoration: none;
+}
+
+body {
+     background-color: #ac86a7;
+}
+
+.containter {
+     margin-top: 100px;
+     text-align: center;
+}
+
+input {
+     font-family: monospace;
+     padding: 10px 10px;
+     border-radius: 10px;
+     border: 2px solid pink;
+     box-shadow: 5px 5px 10px pink;
+}
+
+.btn {
+     width: 75%;
+     float: right;
+     margin-top: 20px;
+}
+
+button {
+     font-family: monospace;
+     padding: 10px 10px;
+     border-radius: 10px;
+     border: 2px solid pink;
+     box-shadow: 5px 5px 10px pink;
+}

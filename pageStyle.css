@@ -1,0 +1,25 @@
+* {
+     margin: 0;
+     padding: 0;
+     text-decoration: none;
+}
+
+body {
+     background-color: #ac86a7;
+     text-align: center;
+}
+
+div {
+     width: 75%;
+     margin: auto;
+     background-color: white;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     border-radius: 10px;
+}
+
+p {
+     font-family: monospace;
+     text-align: left;
+     padding: 10px 10px;
+}
